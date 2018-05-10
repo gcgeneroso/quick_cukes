@@ -1,0 +1,11 @@
+source 'https://rubygems.org'
+
+gem 'byebug'
+gem 'chromedriver-helper'
+gem 'cucumber'
+gem 'data_magic'
+gem 'dotenv'
+gem 'page-object'
+gem 'rake'
+gem 'rspec'
+gem 'rubocop'

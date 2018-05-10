@@ -1,0 +1,4 @@
+# RuboCop config for cucumber & page_object directories
+
+Style/Documentation:
+  Enabled: false
