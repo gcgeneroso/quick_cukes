@@ -9,4 +9,4 @@ require 'watir'
 BROWSER = Watir::Browser.new :chrome
 World(PageObject::PageFactory)
 
-require_all "page_objects"
+require_all 'page_objects'
