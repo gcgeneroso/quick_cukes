@@ -1,7 +1,6 @@
 source 'https://rubygems.org'
 
 gem 'byebug'
-gem 'chromedriver-helper'
 gem 'cucumber'
 gem 'data_magic'
 gem 'dotenv'
@@ -10,3 +9,4 @@ gem 'rake'
 gem 'require_all', '~> 1.5.0'
 gem 'rspec'
 gem 'rubocop'
+gem 'webdrivers'
