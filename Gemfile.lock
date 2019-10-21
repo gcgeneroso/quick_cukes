@@ -30,6 +30,8 @@ GEM
     dotenv (2.7.5)
     faker (2.6.0)
       i18n (>= 1.6, < 1.8)
+    ffi (1.11.1)
+    ffi (1.11.1-x64-mingw32)
     gherkin (5.1.0)
     i18n (1.7.0)
       concurrent-ruby (~> 1.0)
@@ -98,6 +100,7 @@ DEPENDENCIES
   cucumber
   data_magic
   dotenv
+  ffi
   page-object
   rake
   require_all (~> 1.5.0)
